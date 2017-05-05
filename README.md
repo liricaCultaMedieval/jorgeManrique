@@ -1,2 +1,2 @@
 # jorgeManrique
-# Explica el contexto de la lírica culta medieval castellan y analiza la obra de Jorge Manrique como autor representativo.
+ Explica el contexto de la lírica culta medieval castellana y analiza la obra de Jorge Manrique como autor representativo.
